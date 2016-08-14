@@ -11,10 +11,8 @@
 		D4AD22751D3D757C00AF9E96 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AD22741D3D757C00AF9E96 /* ViewController.swift */; };
 		D4AD22781D3D757C00AF9E96 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AD22761D3D757C00AF9E96 /* Main.storyboard */; };
 		D4AD227A1D3D757C00AF9E96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4AD22791D3D757C00AF9E96 /* Assets.xcassets */; };
-		D4AD227D1D3D757C00AF9E96 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AD227B1D3D757C00AF9E96 /* LaunchScreen.storyboard */; };
 		D4AD22881D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AD22871D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppTests.swift */; };
 		D4AD22931D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AD22921D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppUITests.swift */; };
-		D4AD22A11D3D762A00AF9E96 /* IMG_9495.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D4AD22A01D3D762A00AF9E96 /* IMG_9495.JPG */; };
 		D4AD22A31D3D76FB00AF9E96 /* DSCF0303.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D4AD22A21D3D76FB00AF9E96 /* DSCF0303.jpg */; };
 /* End PBXBuildFile section */
 
@@ -41,7 +39,6 @@
 		D4AD22741D3D757C00AF9E96 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D4AD22771D3D757C00AF9E96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4AD22791D3D757C00AF9E96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D4AD227C1D3D757C00AF9E96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4AD227E1D3D757C00AF9E96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4AD22831D3D757C00AF9E96 /* Carlin Soorenian Precourse AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Carlin Soorenian Precourse AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4AD22871D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carlin_Soorenian_Precourse_AppTests.swift; sourceTree = "<group>"; };
@@ -49,7 +46,6 @@
 		D4AD228E1D3D757C00AF9E96 /* Carlin Soorenian Precourse AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Carlin Soorenian Precourse AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4AD22921D3D757C00AF9E96 /* Carlin_Soorenian_Precourse_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Carlin_Soorenian_Precourse_AppUITests.swift; sourceTree = "<group>"; };
 		D4AD22941D3D757C00AF9E96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D4AD22A01D3D762A00AF9E96 /* IMG_9495.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_9495.JPG; sourceTree = "<group>"; };
 		D4AD22A21D3D76FB00AF9E96 /* DSCF0303.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSCF0303.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,7 +81,6 @@
 				D4AD22861D3D757C00AF9E96 /* Carlin Soorenian Precourse AppTests */,
 				D4AD22911D3D757C00AF9E96 /* Carlin Soorenian Precourse AppUITests */,
 				D4AD22701D3D757C00AF9E96 /* Products */,
-				D4AD22A01D3D762A00AF9E96 /* IMG_9495.JPG */,
 				D4AD22A21D3D76FB00AF9E96 /* DSCF0303.jpg */,
 			);
 			sourceTree = "<group>";
@@ -107,7 +102,6 @@
 				D4AD22741D3D757C00AF9E96 /* ViewController.swift */,
 				D4AD22761D3D757C00AF9E96 /* Main.storyboard */,
 				D4AD22791D3D757C00AF9E96 /* Assets.xcassets */,
-				D4AD227B1D3D757C00AF9E96 /* LaunchScreen.storyboard */,
 				D4AD227E1D3D757C00AF9E96 /* Info.plist */,
 			);
 			path = "Carlin Soorenian Precourse App";
@@ -238,10 +232,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4AD227D1D3D757C00AF9E96 /* LaunchScreen.storyboard in Resources */,
 				D4AD227A1D3D757C00AF9E96 /* Assets.xcassets in Resources */,
 				D4AD22A31D3D76FB00AF9E96 /* DSCF0303.jpg in Resources */,
-				D4AD22A11D3D762A00AF9E96 /* IMG_9495.JPG in Resources */,
 				D4AD22781D3D757C00AF9E96 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -310,14 +302,6 @@
 				D4AD22771D3D757C00AF9E96 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		D4AD227B1D3D757C00AF9E96 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D4AD227C1D3D757C00AF9E96 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -495,6 +479,7 @@
 				D4AD22991D3D757C00AF9E96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4AD229A1D3D757C00AF9E96 /* Build configuration list for PBXNativeTarget "Carlin Soorenian Precourse AppTests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +488,7 @@
 				D4AD229C1D3D757C00AF9E96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D4AD229D1D3D757C00AF9E96 /* Build configuration list for PBXNativeTarget "Carlin Soorenian Precourse AppUITests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +497,7 @@
 				D4AD229F1D3D757C00AF9E96 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
